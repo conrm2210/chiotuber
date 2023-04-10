@@ -1,2 +1,2 @@
-# chiotuber
+# tuba 🎺
 Konbini Vtuber Girl
